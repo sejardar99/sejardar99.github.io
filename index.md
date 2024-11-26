@@ -17,3 +17,5 @@ Here are some of my projects:
 
 ## Contact
 Feel free to reach out to me at [sougataejardar@gmail.com](mailto:sougataejardar@gmail.com).
+
+
